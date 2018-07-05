@@ -6,7 +6,7 @@
 Designed to support the didactics of some methods of computing integrals and roots algorithms.
 
 ![](https://i.imgur.com/Q2GRYOK.png)
-
+https://holtzii.shinyapps.io/CalculoInterativo/
 
 ## Configuração para Desenvolvimento
 
